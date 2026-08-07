@@ -1,0 +1,9 @@
+streamlit
+transformers
+peft
+accelerate
+bitsandbytes
+torch
+safetensors
+sentencepiece
+protobuf

@@ -1,0 +1,10 @@
+venv/
+.env
+*.pyc
+__pycache__/
+models/sast-lora-adapters/checkpoint-*/
+*.pt
+*.bin
+*.dll
+.DS_Store
+Thumbs.db
