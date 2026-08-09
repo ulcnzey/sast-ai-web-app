@@ -76,3 +76,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Not: models/sast-lora-adapters klasöründe fine-tune edilmiş LoRA ağırlıklarının bulunması gerekir.
+
+## 👩‍💻 Geliştirici
+Zeynep Ulucan
+
+GitHub: ulcnzey
